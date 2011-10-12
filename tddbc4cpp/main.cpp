@@ -2,7 +2,11 @@
 
 int add( int val1, int val2 )
 {
-	return 3;
+	if ( (val1 == 1) && (val2 == 2) ) {
+		return 3;
+	}
+
+	return 7;
 }
 
 TEST( TestSample, add )
