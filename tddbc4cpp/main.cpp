@@ -2,5 +2,5 @@
 
 TEST( TestSample, add )
 {
-	EXPECT_EQ( 0, 0 );
+	EXPECT_EQ( 3, add( 1, 2 ) );
 }
