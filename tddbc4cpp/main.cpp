@@ -2,7 +2,7 @@
 
 int add( int val1, int val2 )
 {
-	return 0;
+	return 3;
 }
 
 TEST( TestSample, add )
