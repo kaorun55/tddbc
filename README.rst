@@ -1,8 +1,8 @@
-TDD Boot CampŠÖ˜AƒŠƒ|ƒWƒgƒŠ
+TDD Boot Campé–¢é€£ãƒªãƒã‚¸ãƒˆãƒª
 ===========================
-TDD Boot Camp(TDDBC)‚ÌŽ©•ª—pƒŠƒ|ƒWƒgƒŠ‚Å‚·
+TDD Boot Camp(TDDBC)ã®è‡ªåˆ†ç”¨ãƒªãƒã‚¸ãƒˆãƒªã§ã™
 
 
-“à—e
+å†…å®¹
 ----
-* TDD Boot Camp for C++ —p‚ÌÅ‰‚ÌŽÀ‰‰ƒTƒ“ƒvƒ‹
+* TDD Boot Camp for C++ ç”¨ã®æœ€åˆã®å®Ÿæ¼”ã‚µãƒ³ãƒ—ãƒ«
